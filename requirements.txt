@@ -1,0 +1,9 @@
+fastapi
+sentence-transformers
+pypdf
+scikit-learn
+numpy
+python-dotenv
+requests
+faiss-cpu
+python-multipart
